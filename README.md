@@ -28,10 +28,10 @@ A modern, simple, and cool to-do app built using **React Native**. This app help
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/todo-app.git
-2. Navigate to the project directory:
+2. Navigate to the project directory: <br>
    **cd todo-app**
-3. Install dependencies:
+3. Install dependencies:<br>
    **npm install**
-4. Run the app on physical device or on an emulator:
-  ** npx react-native run-android**  # For Android
-  ** npx react-native run-ios**      # For iOS (only on macOS)
+4. Run the app on physical device or on an emulator:<br>
+   npx react-native run-android  # For Android <br>
+   npx react-native run-ios      # For iOS (only on macOS)
